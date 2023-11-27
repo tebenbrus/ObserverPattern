@@ -33,3 +33,5 @@ Ensure that the implementation follows object-oriented design principles and pro
 
 
 ## UML DIAGRAM
+![Blank diagram (4)](https://github.com/tebenbrus/ObserverPattern/assets/114350433/476eadff-6742-44a9-9fcc-bb3cf47f7875)
+
